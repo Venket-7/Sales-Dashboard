@@ -1,0 +1,23 @@
+# Power BI temporary / backup files
+
+*.pbit
+
+# Power BI autosave / temporary files
+
+*.tmp
+*.temp
+
+# Windows files
+
+Thumbs.db
+Desktop.ini
+
+# VS Code
+
+.vscode/
+
+# OS files
+
+.DS_Store
+*.swp
+*.swo
