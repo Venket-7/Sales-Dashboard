@@ -68,8 +68,6 @@ Provides an overall summary of business performance.
 * Total Quantity and Orders by Date
 * Total Sales by Region
 
-![Sales Performance Dashboard](screenshots/01-sales-performance-dashboard.png)
-
 ---
 
 ### 2. Sales Trend
@@ -91,7 +89,6 @@ The page also supports filtering by:
 * Team
 * Date
 
-![Sales Trend](screenshots/02-sales-trend.png)
 
 ---
 
@@ -108,7 +105,6 @@ Provides a detailed view of customer and product performance.
 
 This page can help identify high-value customers and products contributing significantly to sales.
 
-![Customer and Product Summary](screenshots/03-customer-product-summary.png)
 
 ---
 
@@ -130,7 +126,6 @@ Focuses on revenue and profitability trends.
 * Cumulative Sales by Month
 * Cumulative Profit by Month
 
-![Profit and Revenue Analysis](screenshots/04-profit-revenue-analysis.png)
 
 ---
 
@@ -147,8 +142,6 @@ Compares sales and profit across different business dimensions.
 
 This provides a comparative view of business performance across different categories and organizational segments.
 
-![Segment Analysis](screenshots/05-segment-analysis.png)
-
 ---
 
 ### 6. Profit Analysis
@@ -164,7 +157,6 @@ Provides a detailed analysis of product profitability.
 
 This page helps identify products with stronger margins and understand their contribution to overall profitability.
 
-![Profit Analysis](screenshots/06-profit-analysis.png)
 
 ---
 
@@ -202,7 +194,7 @@ The dashboard tracks several important business KPIs:
 Sales-Dashboard/
 │
 ├── Sales_Dashboard.pbix
-├── Sales_Data_10K.xlsx
+│
 ├── Screenshots/
 │   ├── 01-sales-performance-dashboard.png
 │   ├── 02-sales-trend.png
